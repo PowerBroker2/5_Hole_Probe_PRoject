@@ -1,2 +1,2 @@
-# 5_Hole_Probe_Project
+# 5 Hole Probe Project
 Data acquisition unit for an experimental 5 hole pitot tube.
